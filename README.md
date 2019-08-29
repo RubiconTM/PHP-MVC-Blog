@@ -1,0 +1,1 @@
+The final project. An ordinary blog was taken as a project idea in order to consolidate the knowledge gained in the learning process, it was decided to write the project on its own core. The project is based on the MVC template, there is a database and CRUD support. 
